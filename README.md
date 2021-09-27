@@ -14,14 +14,10 @@
 
 ## 2.1. clone 이란?
 
----
-
 원격의 Git 저장소를 로컬에 복제해오는 명령어이다.  
 <br/>
 
 ## 2.2. clone 방법
-
----
 
 1. 아래 버튼을 눌러 git 저장소 주소를 복사합니다.
    <img src="https://user-images.githubusercontent.com/24906022/134833184-104dca88-2b42-49a1-acc2-34d38aa5b98e.png">
@@ -43,8 +39,6 @@
 
 ## 3.1. 4가지 영역
 
----
-
 git/github를 사용하면 4개의 영역을 마주하게 된다.
 
 1. working directory (작업하는 공간)
@@ -55,16 +49,12 @@ git/github를 사용하면 4개의 영역을 마주하게 된다.
 
 ## 3.2. add란?
 
----
-
 working directory에 있는 파일(VS Code에서 변경사항이 발생한 파일)을 staging area로 올리는 명령어.  
 즉, 무엇을 repository에 올릴지 정하는 단계.  
 다시 말하면 무엇을 commit할 지 정하는 단계.  
 <br/>
 
 ## 3.3. commit이란?
-
----
 
 staging area에 있는 파일을 local repository(git)에 올리는 명령어.  
 github가 아니라, git에 올리는 명령어이다.  
@@ -74,16 +64,12 @@ github는 이 버전을 온라인 상에 올릴 수 있게 하는 서비스 중 
 
 ## 3.4. push 란?
 
----
-
 local 에 올려놓은 파일을 remote(github 같은 소스코드 호스팅 플랫폼)에 올릴 수 있도록 하는 명령어  
 즉 push 해야 github에 올라가고, 다른 사람이 온라인에서 해당 코드를 볼 수 있다.  
 협업을 가능케 하는 것은 github와 같은 서비스이다.  
 <br />
 
 ## 3.5. pull 이란?<br />
-
----
 
 push는 working directory(여러분의 VS Code)와 remote(github)가 다를 때 remote에 올라와 있는 버전을 working directory로 가져오기 위한 명령어이다.  
 <br />
