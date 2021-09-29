@@ -133,13 +133,13 @@ Software개발시 개발자들은 동일한 소스코드 위에서 신규 개발
 
 ## 6.4. branch로 이동하는 방법
 
-`git checkout \<branch_name>`
+`git switch \<branch_name>`
 <br/>
 <br/>
 
 ## 6.5. branch 생성과 동시에 이동하는 방법
 
-`git checkout -b \<branch_name>`
+`git switch -c \<branch_name>`
 <br/>
 <br/>
 
