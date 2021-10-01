@@ -125,7 +125,7 @@ Software개발시 개발자들은 동일한 소스코드 위에서 신규 개발
 
 ## 6.3. branch를 생성하는 방법
 
-`git branch \<branch_name>`
+`git branch <branch_name>`
 
 과제 제출시 branch 이름은 `assignment1-euijin-kim`과 같이 해주면 된다. branch 이름은 kebab case(소문자 단어들을 - dash로 연결하는 문자표기법)을 흔히 사용한다.
 <br/>
@@ -133,19 +133,19 @@ Software개발시 개발자들은 동일한 소스코드 위에서 신규 개발
 
 ## 6.4. branch로 이동하는 방법
 
-`git switch \<branch_name>`
+`git switch <branch_name>`
 <br/>
 <br/>
 
 ## 6.5. branch 생성과 동시에 이동하는 방법
 
-`git switch -c \<branch_name>`
+`git switch -c <branch_name>`
 <br/>
 <br/>
 
 ## 6.6. branch를 삭제하는 방법
 
-`git branch -d \<branch_name>`
+`git branch -d <branch_name>`
 <br/>
 <br/>
 
