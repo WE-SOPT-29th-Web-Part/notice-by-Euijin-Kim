@@ -202,7 +202,13 @@ pull request를 날리면, 해당 pr에서 작성된 코드 변경사항을 볼 
 [pr 날리고, comment달고, approve 한 좋은 예시](https://github.com/pa-rang/kyrics-frontend/pull/15)  
 <br />
 
-# 7. 마치며.
+# 7. 정리
+과제 제출은
+1. 자신의 이름으로 된 repository를 clone 받기
+2. 새 branch를 파서 개발하고 pull request 날리기
+3. commit message를 아무렇게나 기술하지 않고, convention을 지켜서 commit 하기
+
+# 8. 마치며.
 
 부족한 글이지만, git과 github가 어색할 여러분을 위해 공들여 쓴 글이니, 어려워도 열심히, 설명이 부족하다면 찾아가면서, 물어가면서 읽어주시면 감사하겠습니다.
 
