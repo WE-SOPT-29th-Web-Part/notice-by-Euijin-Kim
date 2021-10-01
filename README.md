@@ -205,7 +205,7 @@ pull request를 날리면, 해당 pr에서 작성된 코드 변경사항을 볼 
 # 7. 정리
 과제 제출은
 1. 자신의 이름으로 된 repository를 clone 받기
-2. 새 branch를 파서 개발하고 pull request 날리기
+2. 새 branch를 파서 개발하고 pull request 날리기 (브랜치 이름은 `assignment1-euijin-kim` 꼴로, 과제 번호와 본인 이름을 넣기)
 3. commit message를 아무렇게나 기술하지 않고, convention을 지켜서 commit 하기
 
 # 8. 마치며.
